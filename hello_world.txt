@@ -1,0 +1,2 @@
+Hello world, it is Samantha.
+I am practicing git!
